@@ -1,0 +1,1 @@
+"""First FastAPI service."""
